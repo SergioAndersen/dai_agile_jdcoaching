@@ -27,9 +27,9 @@ public class bd {
     private Connection cx;
 
     //Données de connexion
-    private String url = "jdbc:mysql://gi6kn64hu98hy0b6.chr7pe7iynqr.eu-west-1.rds.amazonaws.com:3306/nc7u12n4qki9901o";
-    private String login = "n218xb38chq2jodu";
-    private String password = "jmhv593i4c63auxn";
+    private String url = "jdbc:mysql://ivgz2rnl5rh7sphb.chr7pe7iynqr.eu-west-1.rds.amazonaws.com:3306/pef1s12npqjzdjql";
+    private String login = "vaburf7btkwebup2";
+    private String password = "yd1h1k477wysphga";
 
     //Constructeur
     public bd() {
